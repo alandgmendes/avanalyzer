@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/avanalyzer/node_modules
+/avanalyzer/.pnp
+/avanalyzer/.pnp.js
+
+# testing
+/avanalyzer/coverage
+
+# production
+/avanalyzer/build
+
+# misc
+/avanalyzer/.DS_Store
+/avanalyzer/.env.local
+/avanalyzer/.env.development.local
+/avanalyzer/.env.test.local
+/avanalyzer/.env.production.local
+
+/avanalyzer/npm-debug.log*
+/avanalyzer/yarn-debug.log*
+/avanalyzer/yarn-error.log*
